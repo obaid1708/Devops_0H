@@ -1,0 +1,6 @@
+hi iam creating the repo
+we have to work 
+hard for this
+we have to help ourselves 
+pls start wokring on this
+git it interface which lets to connect b/w local and remote repo
