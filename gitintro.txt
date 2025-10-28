@@ -6,3 +6,4 @@ this controls to makes changes in the code
 git tracks history of a user who had made commits 
 tracks who made changes 
 hey change here
+all about ehre
