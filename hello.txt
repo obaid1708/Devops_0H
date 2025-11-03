@@ -8,3 +8,4 @@ pls start wokring on this
 git hell
 git it interface which lets to connect b/w local and remote repo
 added to validate
+added today3rd nov
