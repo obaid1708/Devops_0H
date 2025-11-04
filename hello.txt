@@ -5,3 +5,4 @@ hard for this
 we have to help ourselves 
 pls start wokring on this
 git it interface which lets to connect b/w local and remote repo
+hi added stash
