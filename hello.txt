@@ -1,10 +1,2 @@
-hey iam here with you
-hi iam creating the repo
-hey hello
-we have to work 
-hard for this
-we have to help ourselves 
-pls start wokring on this
-hey hello iam here
-git it was the best interface which lets to connect b/w local and remote repo
-please help
+this code is to push here 
+we have tested here in git
