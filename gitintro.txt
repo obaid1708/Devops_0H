@@ -4,4 +4,6 @@ version control system
 we need to work on this 
 this controls to makes changes in the code
 git tracks history of a user who had made commits 
-tracks who made changes 
+tracks who made changes
+check the changes are made in gitbranch
+git acts as a communication mode between git and git hub 
