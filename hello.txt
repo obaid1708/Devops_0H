@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hi iam creating the repo
 hey hello
 bro are you
@@ -9,8 +9,6 @@ pls start wokring on this
 git hell
 git it interface which lets to connect b/w local and remote repo
 added to validate
-added today3rd nov
-=======
+added today3rd no
 this code is to push here 
 we have tested here in git
->>>>>>> git
